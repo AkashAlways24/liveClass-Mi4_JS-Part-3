@@ -1,3 +1,6 @@
+// nam er maje ekta okhor khuje ber kore 
+
+
 function findName(list){
   let temp=[];
   for (let i = 0; i < list.length; i++) {
